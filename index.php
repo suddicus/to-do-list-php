@@ -30,8 +30,8 @@
             <?php if($todos -> rowCount() <= 0){ ?>
                 <div class="todo-item">
                     <div class="empty">
-                        <img src="img/book.png" alt="book" width="100%">
-                        <img src="img/ellipsis.gif" alt="loading" width="80px">
+                        <img src="img/book.png" alt="book" width="250px">
+                        <img src="img/lg.gif" alt="loading" width="50%">
                     </div>
                 </div>
             <?php } ?>
